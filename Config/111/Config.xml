@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VersionHandler xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <DPUConfig>
+    <Name>Teszt DPU1</Name>
+    <Identity>111</Identity>
+    <Modules>
+      <ModuleData>
+        <Name>DPU service</Name>
+        <Version>1.1.0.0</Version>
+        <FileSystemPath>..\Service1</FileSystemPath>
+        <ModuleGitPath>Bin\Service1</ModuleGitPath>
+      </ModuleData>
+    </Modules>
+  </DPUConfig>
+</VersionHandler>
