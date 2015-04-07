@@ -5,10 +5,10 @@
     <Identity>111</Identity>
     <Modules>
       <ModuleData>
-        <Name>DPU service</Name>
-        <Version>1.1.0.0</Version>
-        <FileSystemPath>..\Service1</FileSystemPath>
-        <ModuleGitPath>Bin\Service1</ModuleGitPath>
+        <Name>Buta service</Name>
+        <Version>1.0.0.0</Version>
+        <FileSystemPath>d:\Buta</FileSystemPath>
+        <ModuleGitPath>ButaService\V1.0</ModuleGitPath>
       </ModuleData>
     </Modules>
   </DPUConfig>
