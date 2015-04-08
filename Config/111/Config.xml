@@ -8,6 +8,7 @@
         <Name>Buta service</Name>
         <Version>1.0.0.0</Version>
         <FileSystemPath>d:\Buta</FileSystemPath>
+        <FileSystemExecutable>ButaService.exe</FileSystemExecutable>
         <ModuleGitPath>ButaService\V1.0</ModuleGitPath>
       </ModuleData>
     </Modules>
