@@ -9,7 +9,7 @@
         <Version>1.0.0.0</Version>
         <FileSystemPath>d:\Buta</FileSystemPath>
         <FileSystemExecutable>ButaService.exe</FileSystemExecutable>
-        <ServiceGitPath>ButaService\V1.0</ServiceGitPath>
+        <ServiceGitPath>Butaservice\V1.0</ServiceGitPath>
       </ServiceData>
     </Services>
   </DPUConfig>
