@@ -3,14 +3,14 @@
   <DPUConfig>
     <Name>Teszt DPU1</Name>
     <Identity>111</Identity>
-    <Modules>
-      <ModuleData>
+    <Services>
+      <ServiceData>
         <Name>Buta service</Name>
         <Version>1.0.0.0</Version>
         <FileSystemPath>d:\Buta</FileSystemPath>
         <FileSystemExecutable>ButaService.exe</FileSystemExecutable>
-        <ModuleGitPath>ButaService\V1.0</ModuleGitPath>
-      </ModuleData>
-    </Modules>
+        <ServiceGitPath>ButaService\V1.0</ServiceGitPath>
+      </ServiceData>
+    </Services>
   </DPUConfig>
 </VersionHandler>
