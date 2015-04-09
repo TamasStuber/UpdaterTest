@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <VersionHandler xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <DPUConfig>
-    <Name>Teszt DPU1</Name>
+    <Name>Teszt DPU</Name>
     <Identity>111</Identity>
     <Services>
       <ServiceData>
